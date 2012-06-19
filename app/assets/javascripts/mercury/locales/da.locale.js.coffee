@@ -11,7 +11,6 @@ Mercury.I18n['da'] =
   "Redo": "Gentag"
   "Redo your last action": "Gentag din sidste hændelse"
   "Link": "Link"
-  "Insert Link": "Indsæt link"
   "Media": "Media"
   "Insert Media (images and videos)": "Indsæt media (billeder og videoer)"
   "Table": "Tabel"

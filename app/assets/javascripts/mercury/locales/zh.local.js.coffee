@@ -13,7 +13,6 @@ Mercury.I18n['zh'] =
     "Redo": "重做"
     "Redo your last action": "重做上一个操作"
     "Link": "链接"
-    "Insert Link": "插入链接"
     "Media": "多媒体"
     "Insert Media (images and videos)": "插入多媒体（图片、视频）"
     "Table": "表格"

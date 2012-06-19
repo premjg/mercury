@@ -11,7 +11,6 @@ Mercury.I18n['ko'] =
   "Redo": "다시 실행"
   "Redo your last action": "마지막 작업 다시 실행"
   "Link": "링크"
-  "Insert Link": "링크 추가"
   "Media": "매체"
   "Insert Media (images and videos)": "매체 추가 (그림과 영상)"
   "Table": "표"

@@ -11,7 +11,6 @@ Mercury.I18n['swedish_chef'] =
   "Redo": "Redu"
   "Redo your last action": "Redu yuoor lest ecshun"
   "Link": "Leenk"
-  "Insert Link": "Insert Leenk"
   "Media": "Medeea"
   "Insert Media (images and videos)": "Insert Medeea (imeges und feedeus)"
   "Table": "Teble-a"

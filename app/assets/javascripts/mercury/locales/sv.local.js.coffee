@@ -11,7 +11,6 @@ Mercury.I18n['sv'] =
   "Redo": "Gör om"
   "Redo your last action": "Gör om senaste händelsen"
   "Link": "Länk"
-  "Insert Link": "Infoga länk"
   "Media": "Media"
   "Insert Media (images and videos)": "Infoga Media (bilder och video)"
   "Table": "Tabell"

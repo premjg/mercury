@@ -11,7 +11,6 @@ Mercury.I18n['fr'] =
   "Redo": "Refaire"
   "Redo your last action": "Refaire la dernière action"
   "Link": "Lien"
-  "Insert Link": "Insérer un lien"
   "Media": "Média"
   "Insert Media (images and videos)": "Insérer un média (images et vidéos)"
   "Table": "Tableau"

@@ -11,7 +11,6 @@ Mercury.I18n['ar'] =
   "Redo": "إعادة"
   "Redo your last action": "إعادة أخر فعل"
   "Link": "رابط"
-  "Insert Link": "إدراج رابط"
   "Media": "ملف ميديا"
   "Insert Media (images and videos)": "إدراج ملف ميديا (صور أو فيديو)"
   "Table": "جدول"

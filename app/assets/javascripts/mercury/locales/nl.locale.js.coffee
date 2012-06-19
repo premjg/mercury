@@ -11,7 +11,6 @@ Mercury.I18n['nl'] =
   "Redo": "Herstel"
   "Redo your last action": "Herstel laatste actie"
   "Link": "Link"
-  "Insert Link": "Voeg link toe"
   "Media": "Media"
   "Insert Media (images and videos)": "Voeg media toe (afbeeldingen en foto's)"
   "Table": "Tabel"
