@@ -139,7 +139,6 @@ Mercury.I18n['nl'] =
   "Videos": "Video's"
   "YouTube URL": "Youtube URL"
   "Vimeo URL": "Vimeo URL"
-  "Alignment": "Uitlijning"
   "None": "Geen"
   "Left": "Links"
   "Right": "Rechts"

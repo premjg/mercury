@@ -139,7 +139,6 @@ Mercury.I18n['ko'] =
   "Videos": "영상:"
   "YouTube URL": "유투브 URL"
   "Vimeo URL": "비메오 URL"
-  "Alignment": "정렬"
   "None": "정렬 안함"
   "Left": "왼쪽 정렬"
   "Right": "오른쪽 정렬"

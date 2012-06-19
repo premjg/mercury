@@ -141,7 +141,6 @@ Mercury.I18n['zh'] =
     "Videos": "视频"
     "YouTube URL": "YouTube 分享链接"
     "Vimeo URL": "Vimeo 分享链接"
-    "Alignment": "对齐方式"
     "None": "默认"
     "Left": "左对齐"
     "Right": "右对齐"

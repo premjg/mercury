@@ -143,7 +143,6 @@ Mercury.I18n['en'] =
   "Videos": ""
   "YouTube URL": ""
   "Vimeo URL": ""
-  "Alignment": ""
   "None": ""
   "Left": ""
   "Right": ""

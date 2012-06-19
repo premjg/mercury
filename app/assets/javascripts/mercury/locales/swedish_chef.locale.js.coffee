@@ -139,7 +139,6 @@ Mercury.I18n['swedish_chef'] =
   "Videos": "Feedeus"
   "YouTube URL": "YouTube URL"
   "Vimeo URL": "Vimeo URL"
-  "Alignment": "Eleegnment"
   "None": "Nune-a"
   "Left": "Lefft"
   "Right": "Reeght"

@@ -125,6 +125,7 @@ Mercury.I18n['ar'] =
   "Index / Bookmark Links": "روابط فهرس / الإشارة المرجعية"
   "Existing Links": "الروابط الموجودة"
   "Bookmark": "الإشارة المرجعية"
+
   "Link Target": "هدف الرابط"
   "Self (the same window or tab)": "الذاتية (نفس النافذة أو التبويب)"
   "Blank (a new window or tab)": "فارغة (نافذة جديدة أو علامة التبويب)"
@@ -139,7 +140,6 @@ Mercury.I18n['ar'] =
   "Videos": "فيديو"
   "YouTube URL": "رابط يوتيوب"
   "Vimeo URL": "رابط فيميو"
-  "Alignment": "المحاذاة"
   "None": "لا شيء"
   "Left": "يسار"
   "Right": "يمين"

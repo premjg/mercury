@@ -139,7 +139,6 @@ Mercury.I18n['sv'] =
   "Videos": "Video"
   "YouTube URL": "YouTube-URL"
   "Vimeo URL": "Vimeo-URL"
-  "Alignment": "Justering"
   "None": "Ingen"
   "Left": "Vänster"
   "Right": "Höger"
