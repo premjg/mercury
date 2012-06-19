@@ -125,7 +125,6 @@ Mercury.I18n['it'] =
   "Index / Bookmark Links": "Link all'indice / ai segnalibri"
   "Existing Links": "Link esistente"
   "Bookmark": "Segnalibro"
-  "Options": "Opzioni"
   "Link Target": "Destinazione del link"
   "Self (the same window or tab)": "Self (stessa finestra o tab)"
   "Blank (a new window or tab)": "Blank (nuova finestra o tab)"

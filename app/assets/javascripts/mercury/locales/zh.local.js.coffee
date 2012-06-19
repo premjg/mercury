@@ -127,7 +127,6 @@ Mercury.I18n['zh'] =
     "Index / Bookmark Links": "索引、书签链接"
     "Existing Links": "已有链接"
     "Bookmark": "书签"
-    "Options": "选项"
     "Link Target": "链接目标窗口"
     "Self (the same window or tab)": "本窗口中打开"
     "Blank (a new window or tab)": "新窗口（或标签）中打开"

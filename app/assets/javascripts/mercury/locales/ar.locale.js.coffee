@@ -125,7 +125,6 @@ Mercury.I18n['ar'] =
   "Index / Bookmark Links": "روابط فهرس / الإشارة المرجعية"
   "Existing Links": "الروابط الموجودة"
   "Bookmark": "الإشارة المرجعية"
-  "Options": "خيارات"
   "Link Target": "هدف الرابط"
   "Self (the same window or tab)": "الذاتية (نفس النافذة أو التبويب)"
   "Blank (a new window or tab)": "فارغة (نافذة جديدة أو علامة التبويب)"

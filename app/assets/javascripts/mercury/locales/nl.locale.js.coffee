@@ -125,7 +125,6 @@ Mercury.I18n['nl'] =
   "Index / Bookmark Links": "Index / Favorieten Links"
   "Existing Links": "Bestaande Links"
   "Bookmark": "Favorieten"
-  "Options": "Opties"
   "Link Target": "Link doel"
   "Self (the same window or tab)": "Self (zelfde venster)"
   "Blank (a new window or tab)": "Blank (nieuw venster of tab)"

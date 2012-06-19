@@ -125,7 +125,6 @@ Mercury.I18n['swedish_chef'] =
   "Index / Bookmark Links": "Index / Buukmerk Leenks"
   "Existing Links": "Ixeesting Leenks"
   "Bookmark": "Buukmerk"
-  "Options": "Oopshuns"
   "Link Target": "Leenk Terget"
   "Self (the same window or tab)": "Selff (zee seme-a veendoo oor teb)"
   "Blank (a new window or tab)": "Blunk (a noo veendoo oor teb)"

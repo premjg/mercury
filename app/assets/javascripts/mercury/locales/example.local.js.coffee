@@ -129,7 +129,6 @@ Mercury.I18n['en'] =
   "Index / Bookmark Links": ""
   "Existing Links": ""
   "Bookmark": ""
-  "Options": ""
   "Link Target": ""
   "Self (the same window or tab)": ""
   "Blank (a new window or tab)": ""

@@ -125,7 +125,6 @@ Mercury.I18n['sv'] =
   "Index / Bookmark Links": "Index / Bokmärkeslänkar"
   "Existing Links": "Existerande länkar"
   "Bookmark": "Bokmärken"
-  "Options": "Inställningar"
   "Link Target": "Länkmål"
   "Self (the same window or tab)": "Self (samma fönster eller flik)"
   "Blank (a new window or tab)": "Blank (ett nytt fönster eller flik)"

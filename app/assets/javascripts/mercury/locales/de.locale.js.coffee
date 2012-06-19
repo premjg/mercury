@@ -125,7 +125,6 @@ Mercury.I18n['de'] =
   "Index / Bookmark Links": "Index/Lesezeichen-Link"
   "Existing Links": "Existierender Link"
   "Bookmark": "Lesezeichen"
-  "Options": "Optionen"
   "Link Target": "Link-Ziel"
   "Self (the same window or tab)": "Self (das gleiche Fenster oder Tab)"
   "Blank (a new window or tab)": "Blank (ein neues Fenster oder Tab)"

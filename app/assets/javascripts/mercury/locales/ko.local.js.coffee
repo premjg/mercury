@@ -125,7 +125,6 @@ Mercury.I18n['ko'] =
   "Index / Bookmark Links": "색인 / 즐겨찾기 링크"
   "Existing Links": "존재하는 링크"
   "Bookmark": "즐겨찾기"
-  "Options": "설정"
   "Link Target": "링크를 띄울 곳"
   "Self (the same window or tab)": "현재 페이지  (현재와 같은창 혹은 탭)"
   "Blank (a new window or tab)": "빈 페이지 (현재와 같은창 혹은 탭)"
